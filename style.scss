@@ -1,0 +1,23 @@
+body {
+    font-family: system-ui;
+    background: #fff;
+    color: #000;
+    text-align: center;
+
+    #time {
+        //border: 3px #000 dotted;
+        margin: 300px;
+
+        h1{
+            font-size: 50px;
+            padding-top: 20px;
+        }
+
+        #clock {
+            font-size: 50px;
+            padding-bottom: 20px;
+        }
+    }
+
+
+}

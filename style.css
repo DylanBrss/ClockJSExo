@@ -1,0 +1,17 @@
+body {
+  font-family: system-ui;
+  background: #fff;
+  color: #000;
+  text-align: center;
+}
+body #time {
+  margin: 300px;
+}
+body #time h1 {
+  font-size: 50px;
+  padding-top: 20px;
+}
+body #time #clock {
+  font-size: 50px;
+  padding-bottom: 20px;
+}/*# sourceMappingURL=style.css.map */
